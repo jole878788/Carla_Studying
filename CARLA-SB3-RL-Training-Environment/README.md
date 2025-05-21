@@ -1,5 +1,5 @@
 ## CARLA-SB3-RL-Training-Environment
-该项目只把核心模块代码上传，整个项目基于 CARLA 0.9.13 模拟器和 Stable Baselines3 强化学习库
+该项目只把核心模块代码上传，整个项目基于 CARLA 0.9.14 模拟器和 Stable Baselines3 强化学习库
 
 车辆所处的environment定义都在./CARLA-SB3-RL-Training-Environment/carla_env,所以下面讲解一下Carla_env部分
 
